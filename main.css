@@ -1,0 +1,22 @@
+.btn{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    outline: none;
+    font-size: 1.5rem;
+}   
+
+.bilgi{
+    margin: 1rem 0;
+    padding: 1rem;
+    visibility: hidden;
+}
+.bilgi--hatali{
+    border: 1px solid red;
+}
+.bilgi--basarili{
+    border: 1px solid rgb(0, 255, 128);
+}
+.fas{
+    pointer-events: none;
+}
